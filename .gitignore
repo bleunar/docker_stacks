@@ -1,0 +1,12 @@
+# Ignore all content in secrets directories
+**/secrets/*
+
+# But do not ignore files starting with _ (templates)
+!**/secrets/_*
+
+# Ignore backup files
+volume_backups/
+*.tar.gz
+
+# Ignore env files
+.env
