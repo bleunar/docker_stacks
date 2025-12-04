@@ -11,6 +11,7 @@ A collection of production-ready Docker stacks for various services to support D
 | **PostgreSQL** | `postgres_stack` | PostgreSQL 15, PGAdmin | Database stack with web administration. |
 | **Monitoring** | `monitoring_stack` | Prometheus, Grafana | Metrics collection and visualization. |
 | **Cloudflared** | `cloudflared_stack` | Cloudflared, Nginx Proxy Manager | Secure tunneling and reverse proxy management. |
+| **N8N** | `n8n_stack` | N8N | Self-hosted N8N instance. |
 
 ## Installation and Setup
 
